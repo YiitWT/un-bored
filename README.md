@@ -22,14 +22,15 @@ $ pip install -r requirements.txt
 $ python main.py
 ```
 ## FAQ
-Q: Why?
+
+### Q: Why
 A: I'm bored.
 
-Q: I Uptaded the code
+### Q: I Uptaded the code
 A: You can dm me on discord, my nick is Yiit#3276.
 
-Q: I Have a problem 
-A: Nice, create a issue.
+### Q: I Have a problem 
+A: Nice, create a issue on github.
 
 
 ## Disclaimer
